@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: #d4d4d6;
+  height: 100vh;
+}
+
+canvas {
+  background-color: white;
+}
+
+label {
+  color: #282a36;
+}
+
+label:first-of-type {
+  margin-right: 24px;
+}
+
+h2,
+h5 {
+  margin: 0;
+  color: #282a36;
+}
